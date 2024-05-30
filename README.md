@@ -13,7 +13,9 @@
 # --------------------------------------------------------------------------------------------------------------------------
 ## [+] {SETUP}:- 
 
-NOTE:-     1) The Server And Client Code Must Be Executed On Computers Under Same Network
+NOTE:-    
+
+	   1) The Server And Client Code Must Be Executed On Computers Under Same Network
 
 	   2) This Program Is Strictly Made For UNIX SYSTEMS (TO IMPLEMENT ON WINDOWS -- Refer FIX Section)
     
