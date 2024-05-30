@@ -9,6 +9,8 @@
 		      	(ii) Remote Access The Server Through Client (This Can Be Used To Implement Proxy-Chains For Pen-Testing)
 		      	(iii) Rock-Paper-Scissors Game
 			(iv) N-Map scans (Can Be Used To Gather Info On Target Machine Before Pen-Testing)
+   			(v) It is a robust program with error handling implemented , and also it checks if entered ip-address and port-no.
+      			    is valid or not , while running n-map scans.
 
 # --------------------------------------------------------------------------------------------------------------------------
 ## [+] {SETUP}:- 
